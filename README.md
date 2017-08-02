@@ -1,4 +1,7 @@
 # dji_system.bin
+WARNING! Use this repo at your own risk. You CAN brick your DJI product if you don't know what you are doing.  
+The author is not responsible for direct, indirect, incidental or consequential damages resulting from any defect, error or failure of this code repository to perform.
+
 DJI is currently in violation of GPL... these binaries are intended to be distributed to end users that have purchased either an Inspire2, Goggles, Mavic, Spark, or P4 variant drone,and are seeking to downgrade their aircraft back to its factory state. 
 
 If you are just here to learn how dji_system.bin is used for firmware downgrades please go here: https://github.com/MAVProxyUser/dji_system.bin/blob/master/HOWTO.md
@@ -48,4 +51,4 @@ https://github.com/MAVProxyUser/DUMLrub - Ruby port of PyDUML, and firmware cher
 
 https://github.com/jezzab/DUMLdore - Even windows users need some love, so DUMLDore was created to help archive, and flash dji_system.bin files on windows platforms.
 
-
+https://github.com/MAVProxyUser/DJI_ftpd_aes_unscramble - DJI has modified the GPL Busybox ftpd on Mavic, Spark, & Inspire 2 to include AES scrambling of downloaded files... this tool will reverse the scrambling
