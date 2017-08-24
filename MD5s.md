@@ -1,11 +1,16 @@
 ```
 MD5 (UniversalFireworksTar_dji_system.bin) = 0e0b9d397ad132dc5af8ee37d1b2a5fd
+MD5 (V01.00.0002_RC_Spark_fw.tar) = 7bca3be9f176c61834b47063441e984c
 MD5 (V01.00.0006_Spark_dji_system.bin) = cc9c68028cb9d3331f16c09d43cf4ba4
+MD5 (V01.00.0100_RC_Spark_fw.tar) = 900c650ef2e28aa49e1d86f3cdf88743
 MD5 (V01.00.0240_I2_dji_system.bin) = 3f391ac629bc3a1464fee92f1b5ecc02
+MD5 (V01.00.0300_RC_Spark_fw.tar) = 496d475a17e8421e95b28c4d1ce1cc3c
 MD5 (V01.00.0300_Spark_dji_system.bin) = bf81af1c10318e8549bb78b0fef85013
 MD5 (V01.00.0330_I2_dji_system.bin) = 0a5c437812b91355c9ae0d4d28d505d1
+MD5 (V01.00.0400_RC_Spark_fw.tar) = 769e0f2deaebe28f689d0cc2b324137f
 MD5 (V01.00.0400_Spark_dji_system.bin) = 65f15f4cbe7d761459c7a09ebc660801
-MD5 (V01_00_0500_Spark_dji_system.bin) = 7eb929d2030fe574a65b92f7282548c6
+MD5 (V01.00.0500_Spark_dji_system.bin) = 7eb929d2030fe574a65b92f7282548c6
+MD5 (V01.00.0600_Spark_dji_system.bin) = 5c4ac9c6ede03371c5963af07e728dd1
 MD5 (V01.01.0010_I2_dji_system.bin) = 7d04f199bd872c9372fdebddbef3c404
 MD5 (V01.01.0203_P4P_dji_system.bin) = 950ca897ee21cbb545f5e30ab198eaa7
 MD5 (V01.02.0304_P4P_dji_system.bin) = a56be33f41e9932fed74ec2bf5d44fc8
@@ -31,6 +36,9 @@ MD5 (V01.03.0800_RC_Mavic_dji_system.bin) = e2508fbf87ce87c0dc7fb7721e555901
 MD5 (V01.03.0900_Goggles_dji_system.bin) = 1f82d27681217b4c388a593e4ba6f875
 MD5 (V01.03.0900_Mavic_dji_system.bin) = 984446beb028443670091e07d3bbd752
 MD5 (V01.03.0900_RC_Mavic_dji_system.bin) = beb6c9dea2a0ad5f688ada4d439e969f
+MD5 (V01.03.1000_Goggles_dji_system.bin) = 9f0c3b4770ee9ee6c18ca7f695f2630a
+MD5 (V01.03.1000_Mavic_dji_system.bin) = f520492064f9e6cb43ae92e60a7fa1a9
+MD5 (V01.03.1000_RC_Mavic_dji_system.bin) = 64cab036415d0c1d2aefaf92215c3b1f
 MD5 (V01.04.0602_P4P_dji_system.bin) = 46d325fafd60086add4c4c77c15132f7
 MD5 (V02.00.0106_P4_dji_system.bin) = a49944bb254354ec064bee13c491fa1e
 MD5 (data_copy.bin) = 133d14108497decbb85d79196ce703ca
